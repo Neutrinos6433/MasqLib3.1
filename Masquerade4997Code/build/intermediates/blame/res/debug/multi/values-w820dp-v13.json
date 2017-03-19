@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Archish/Desktop/MasqLib/Masquerade4997Code/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/Users/Archish/Documents/Projects/MasqLib/Masquerade4997Code/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/Archish/Desktop/MasqLib/Masquerade4997Code/build/intermediates/exploded-aar/MasqLib/FtcRobotController/unspecified/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "file": "/Users/Archish/Documents/Projects/MasqLib/Masquerade4997Code/build/intermediates/exploded-aar/MasqLib/FtcRobotController/unspecified/res/values-w820dp-v13/values-w820dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
